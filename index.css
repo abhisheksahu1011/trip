@@ -1,0 +1,184 @@
+.container{
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right:150px;
+} 
+.containerone{
+    font-size:x-large;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.one{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    margin-left:60px;
+    margin-bottom: 41px;
+    font-size:60px;
+    color: gray;
+}
+.plus{
+    display: flex;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right:105px;
+    margin-top: 18px;
+    
+}
+.list
+{
+color: gray;
+font-size: 60px;
+}
+
+.icon{
+    text-decoration: none;
+    color: red ;
+    font-size: 30px;
+    width: 47px;
+    height: 19px; 
+    text-align:center ;
+    margin-top:18px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin :auto;
+    text-align: center;
+   
+}
+.boxes{
+    margin: auto;
+    border:1px solid red;
+    border-radius: 12px;
+    box-shadow: 5px 5px 12px grey;
+    height: 361px;
+    width: 240px;
+}
+.heading{
+    font-size: 32px;
+    color:red;
+    padding-top: 20px;
+    padding-bottom:10px ;
+}
+.checkbox{
+    text-align:left;
+    font-size: 24px;
+}
+.index1
+{
+    z-index: -1;
+    filter: blur(5px);
+}
+.addbox
+{
+    z-index: 1;
+    border: 1px solid red;
+    border-radius: 12px;
+    color: red;
+    text-align: center;
+    height: 195px;
+    width: 382px;
+    position: relative;
+    top: -276px;
+    left: 448px;
+    left: 476px;
+    background-color: white;
+}
+.botton
+    {
+        background-color: red;
+        border:1px solid red;
+        border-radius: 22px;
+        color: white;
+        height: 35px;
+        width: 81px;
+    }
+   
+.border{
+     border:1px solid red;
+     height: 37px;
+     width: 250px;
+     border-radius: 20px;
+    }
+.paris
+{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}    
+.parispage
+{
+    text-align: center;
+    margin-top: 30px;
+} 
+.back
+{
+    margin-left: 590px;
+    display: inline-block;
+}   
+.icon1{
+    margin:auto;
+    text-decoration: none;
+    color: red ;
+    font-size: 30px;
+    width: 47px;
+    height: 19px;
+    display:inline-block;
+} 
+.back1
+{
+    display: inline-block;
+}
+.parisbox
+{
+    text-align: center;
+    margin: auto;
+    border:1px solid red;
+    border-radius: 12px;
+    box-shadow: 5px 5px 12px grey;
+    height: 367px;
+    width: 443px
+}
+.top
+{
+    font-size: 32px;
+    color:red;
+    padding-top: 20px;
+    padding-bottom:10px ; 
+}
+.checkbox2
+{
+    text-align:center;
+    font-size: 24px;
+}
+.box4
+{
+    margin: auto;
+    border:1px solid red;
+    border-radius: 12px;
+    box-shadow: 5px 5px 12px grey;
+    height: 400px;
+    width: 400px; 
+    text-align: center;
+}
+.lastbutton{
+
+    text-decoration: none;
+    color: red ;
+    width: 50px;
+    height: 25px;
+    font-size: 35px;
+    display:inline-block; 
+    position: relative;
+    top: 170px;
+    left: 175px;
+}
